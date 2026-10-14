@@ -1,10 +1,10 @@
 {
   "posts": [
     {
-      "id": "news-008",
+      "id": "news-008/009",
       "date": "2026-10-14",
-      "title": "Update v0.08 is in the works",
-      "message": "Genreal UI fixes"
+      "title": "Update v0.08 and v0.009 is in the works and will drop together.",
+      "message": "Genreal UI fixes adn news update"
     }
   ]
 }
