@@ -1,10 +1,19 @@
 {
+  "version": "0.11",
   "posts": [
     {
-      "id": "news-008/009",
+      "id": "update-011",
+      "title": "Last update: General enhancements and New fixes",
+      "status": "released",
       "date": "2026-10-14",
-      "title": "Update v0.08 and v0.009 dropped",
-      "message": "v0.08: Genreal UI fixes.\nv0.09: news update. \nv0.10: Dropping 10/15/25. "
+      "message": ""
+    },
+    {
+      "id": "update-012",
+      "title": "Upcoming: To be announced",
+      "status": "in development",
+      "expectedDate": "",
+      "message": "To be announced"
     }
   ]
 }
