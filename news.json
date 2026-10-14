@@ -1,19 +1,19 @@
 {
-  "version": "0.11",
+  "version": "0.13",
   "posts": [
     {
-      "id": "update-011",
-      "title": "General enhancements and news fixes",
+      "id": "update-013",
+      "title": "News Feed 2",
       "status": "released",
       "date": "2026-10-14",
-      "message": "Improved modifier controls, quick wagers, and news-board fields."
+      "message": "Improved news feed: 1"
     },
     {
-      "id": "update-012",
+      "id": "update-014",
       "title": "Next update",
       "status": "upcoming",
-      "expectedDate": "",
-      "message": "To be announced."
+      "expectedDate": "10/15/26",
+      "message": "Internal fixes"
     }
   ]
 }
