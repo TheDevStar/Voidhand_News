@@ -2,18 +2,36 @@
   "version": "0.13",
   "posts": [
     {
-      "id": "update-013",
-      "title": "News Feed 2",
-      "status": "released",
-      "date": "2026-10-14",
-      "message": "Improved news feed: 1"
+      "id": "update-015",
+      "section": "upcoming",
+      "status": "In development",
+      "title": "v0.15 — News Feed and Changelog",
+      "expectedDate": "To be announced",
+      "message": "Upcoming news will appear at the top, followed by the last three released updates in a scrollable changelog. Investigating the news code errors shown in VS Code."
     },
     {
-      "id": "update-014",
-      "title": "Next update",
-      "status": "upcoming",
-      "expectedDate": "2026-10-14",
-      "message": "Internal fixes"
+      "id": "update-013",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.13 — News Feed 2",
+      "date": "10/14/26",
+      "message": "Improved news parsing, flexible wording and dates, and offline caching."
+    },
+    {
+      "id": "update-012",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.12 — Card Stability",
+      "date": "10/14/26",
+      "message": "Fixed card jitter during table updates and removed Style controls from selected deck cards."
+    },
+    {
+      "id": "update-011",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.11 — News Feed Fields",
+      "date": "10/14/26",
+      "message": "Added version information and fields for released and upcoming updates."
     }
   ]
 }
