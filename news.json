@@ -3,17 +3,17 @@
   "posts": [
     {
       "id": "update-011",
-      "title": "Last update: General enhancements and New fixes",
+      "title": "General enhancements and news fixes",
       "status": "released",
       "date": "2026-10-14",
-      "message": ""
+      "message": "Improved modifier controls, quick wagers, and news-board fields."
     },
     {
       "id": "update-012",
-      "title": "Upcoming: To be announced",
-      "status": "in development",
+      "title": "Next update",
+      "status": "upcoming",
       "expectedDate": "",
-      "message": "To be announced"
+      "message": "To be announced."
     }
   ]
 }
