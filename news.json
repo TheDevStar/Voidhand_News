@@ -1,13 +1,22 @@
+
 {
-  "version": "0.17",
+  "version": "0.18",
   "posts": [
     {
-      "id": "update-018",
+      "id": "update-019",
       "section": "upcoming",
       "status": "In development",
+      "title": "v0.19 — Playtest Fixes: Card Controls, Table Layout, and Inventory",
+      "expectedDate": "10/17/26 - 10/18/26",
+      "message": "Improving card placement and controls, including overlapping dealer cards for better table visibility. Fixing card artwork inconsistencies and unique card inventory issues. Adding separate Inventory and Sleeves tabs to deck building."
+    },
+    {
+      "id": "update-018",
+      "section": "released",
+      "status": "Released",
       "title": "v0.18 — Pixel Art and Card Descriptions",
-      "expectedDate": "To be announced",
-      "message": "New pixel-art cards and sleeves, shop tabs for Cards, Sleeves, and Unique items, and card descriptions shown by tapping and holding a visible card."
+      "date": "10/16/26",
+      "message": "Introduced new pixel-art cards and sleeves, shop tabs for Cards, Sleeves, and Unique items, and card descriptions accessible by tapping and holding a visible card."
     },
     {
       "id": "update-017",
@@ -24,14 +33,6 @@
       "title": "v0.16 — Main Menu Refresh and Code Cleanup",
       "date": "10/16/26",
       "message": "Added a new main menu background and simple white-text buttons. Cleaned up existing code to improve readability while preserving gameplay."
-    },
-    {
-      "id": "update-015",
-      "section": "released",
-      "status": "Released",
-      "title": "v0.15 — News Feed and Changelog",
-      "date": "10/16/26",
-      "message": "Upcoming news now appears above the latest three released updates in a scrollable changelog. Preserved flexible dates, custom status text, and offline news."
     }
   ]
 }
