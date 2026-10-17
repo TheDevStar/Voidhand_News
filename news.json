@@ -1,37 +1,37 @@
 {
-  "version": "0.13",
+  "version": "0.17",
   "posts": [
     {
-      "id": "update-015",
+      "id": "update-018",
       "section": "upcoming",
       "status": "In development",
-      "title": "v0.15 — News Feed and Changelog",
+      "title": "v0.18 — Pixel Art and Card Descriptions",
       "expectedDate": "To be announced",
-      "message": "Upcoming news will appear at the top, followed by the last three released updates in a scrollable changelog. Investigating the news code errors shown in VS Code."
+      "message": "New pixel-art cards and sleeves, shop tabs for Cards, Sleeves, and Unique items, and card descriptions shown by tapping and holding a visible card."
     },
     {
-      "id": "update-013",
+      "id": "update-017",
       "section": "released",
       "status": "Released",
-      "title": "v0.13 — News Feed 2",
-      "date": "10/14/26",
-      "message": "Improved news parsing, flexible wording and dates, and offline caching."
+      "title": "v0.17 — Consistent Menus",
+      "date": "10/16/26",
+      "message": "Updated menu screens with a consistent space background and navigation style. Main menu buttons now appear in one vertical column, with improved spacing and scrolling on smaller screens."
     },
     {
-      "id": "update-012",
+      "id": "update-016",
       "section": "released",
       "status": "Released",
-      "title": "v0.12 — Card Stability",
-      "date": "10/14/26",
-      "message": "Fixed card jitter during table updates and removed Style controls from selected deck cards."
+      "title": "v0.16 — Main Menu Refresh and Code Cleanup",
+      "date": "10/16/26",
+      "message": "Added a new main menu background and simple white-text buttons. Cleaned up existing code to improve readability while preserving gameplay."
     },
     {
-      "id": "update-011",
+      "id": "update-015",
       "section": "released",
       "status": "Released",
-      "title": "v0.11 — News Feed Fields",
-      "date": "10/14/26",
-      "message": "Added version information and fields for released and upcoming updates."
+      "title": "v0.15 — News Feed and Changelog",
+      "date": "10/16/26",
+      "message": "Upcoming news now appears above the latest three released updates in a scrollable changelog. Preserved flexible dates, custom status text, and offline news."
     }
   ]
 }
