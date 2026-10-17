@@ -1,14 +1,30 @@
 
 {
-  "version": "0.18",
+  "version": "0.20",
   "posts": [
     {
-      "id": "update-019",
+      "id": "update-021",
       "section": "upcoming",
       "status": "In development",
+      "title": "v0.21 — Multiplayer Rooms",
+      "expectedDate": "To be announced",
+      "message": "Beginning development of multiplayer functionality, including the initial systems for creating and joining player rooms. This update will lay the foundation for future online matches between players."
+    },
+    {
+      "id": "update-020",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.20 — Card Stacking",
+      "date": "10/17/26",
+      "message": "Cards now stack on top of one another when five or more cards are on the table, leaving the edges of previous cards visible for easier viewing and a cleaner table layout."
+    },
+    {
+      "id": "update-019",
+      "section": "released",
+      "status": "Released",
       "title": "v0.19 — Playtest Fixes: Card Controls, Table Layout, and Inventory",
-      "expectedDate": "10/17/26 - 10/18/26",
-      "message": "Improving card placement and controls, including overlapping dealer cards for better table visibility. Fixing card artwork inconsistencies and unique card inventory issues. Adding separate Inventory and Sleeves tabs to deck building."
+      "date": "10/17/26",
+      "message": "Improved card placement and controls, fixed card artwork inconsistencies and unique card inventory issues, and added separate Inventory and Sleeves tabs to deck building."
     },
     {
       "id": "update-018",
@@ -17,22 +33,9 @@
       "title": "v0.18 — Pixel Art and Card Descriptions",
       "date": "10/16/26",
       "message": "Introduced new pixel-art cards and sleeves, shop tabs for Cards, Sleeves, and Unique items, and card descriptions accessible by tapping and holding a visible card."
-    },
-    {
-      "id": "update-017",
-      "section": "released",
-      "status": "Released",
-      "title": "v0.17 — Consistent Menus",
-      "date": "10/16/26",
-      "message": "Updated menu screens with a consistent space background and navigation style. Main menu buttons now appear in one vertical column, with improved spacing and scrolling on smaller screens."
-    },
-    {
-      "id": "update-016",
-      "section": "released",
-      "status": "Released",
-      "title": "v0.16 — Main Menu Refresh and Code Cleanup",
-      "date": "10/16/26",
-      "message": "Added a new main menu background and simple white-text buttons. Cleaned up existing code to improve readability while preserving gameplay."
     }
+  ]
+}
+
   ]
 }
