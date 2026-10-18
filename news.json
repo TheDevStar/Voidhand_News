@@ -1,14 +1,30 @@
 
 {
-  "version": "0.20",
+  "version": "0.22",
   "posts": [
     {
-      "id": "update-021",
+      "id": "update-023",
       "section": "upcoming",
       "status": "In development",
-      "title": "v0.21 — Multiplayer Rooms",
+      "title": "v0.23 — Multiplayer Gameplay and Card Improvements",
       "expectedDate": "To be announced",
-      "message": "Beginning development of multiplayer functionality, including the initial systems for creating and joining player rooms. This update will lay the foundation for future online matches between players."
+      "message": "Fixing multiplayer rooms so matches begin properly when both players are ready, allowing players to compete using the existing game rules. Improving card and sleeve sizing, correcting unique card inventory behavior, and updating dealer card draws to use true random selection."
+    },
+    {
+      "id": "update-022",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.22 — Multiplayer Rooms and Online Gameplay",
+      "date": "10/17/26",
+      "message": "Expanded multiplayer functionality with private two-player rooms, room codes, player connection status, and ready controls. Added the initial systems for synchronized online gameplay and improved multiplayer room management."
+    },
+    {
+      "id": "update-021",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.21 — Multiplayer Rooms",
+      "date": "10/17/26",
+      "message": "Introduced the foundation for online multiplayer, including the ability to create and join private player rooms."
     },
     {
       "id": "update-020",
@@ -17,25 +33,10 @@
       "title": "v0.20 — Card Stacking",
       "date": "10/17/26",
       "message": "Cards now stack on top of one another when five or more cards are on the table, leaving the edges of previous cards visible for easier viewing and a cleaner table layout."
-    },
-    {
-      "id": "update-019",
-      "section": "released",
-      "status": "Released",
-      "title": "v0.19 — Playtest Fixes: Card Controls, Table Layout, and Inventory",
-      "date": "10/17/26",
-      "message": "Improved card placement and controls, fixed card artwork inconsistencies and unique card inventory issues, and added separate Inventory and Sleeves tabs to deck building."
-    },
-    {
-      "id": "update-018",
-      "section": "released",
-      "status": "Released",
-      "title": "v0.18 — Pixel Art and Card Descriptions",
-      "date": "10/16/26",
-      "message": "Introduced new pixel-art cards and sleeves, shop tabs for Cards, Sleeves, and Unique items, and card descriptions accessible by tapping and holding a visible card."
     }
   ]
 }
+
 
 
 
