@@ -1,14 +1,22 @@
 
 {
-  "version": "0.22",
+  "version": "0.23",
   "posts": [
     {
-      "id": "update-023",
+      "id": "update-024",
       "section": "upcoming",
       "status": "In development",
-      "title": "v0.23 — Multiplayer Gameplay and Card Improvements",
+      "title": "v0.24 — Multiplayer Stability and Gameplay Improvements",
       "expectedDate": "To be announced",
-      "message": "Fixing multiplayer rooms so matches begin properly when both players are ready, allowing players to compete using the existing game rules. Improving card and sleeve sizing, correcting unique card inventory behavior, and updating dealer card draws to use true random selection."
+      "message": "Improving multiplayer room stability when switching between apps, adjusting unique card sizing, allowing players to recall cards during their turn, and correcting round scoring so results are calculated only after a round ends."
+    },
+    {
+      "id": "update-023",
+      "section": "released",
+      "status": "Released",
+      "title": "v0.23 — Multiplayer Gameplay and Card Improvements",
+      "date": "10/18/26",
+      "message": "Improved multiplayer rooms so matches can begin when both players are ready. Added gameplay synchronization between connected players, refined card and sleeve sizing, corrected unique card inventory behavior, and improved dealer card randomness."
     },
     {
       "id": "update-022",
@@ -25,17 +33,10 @@
       "title": "v0.21 — Multiplayer Rooms",
       "date": "10/17/26",
       "message": "Introduced the foundation for online multiplayer, including the ability to create and join private player rooms."
-    },
-    {
-      "id": "update-020",
-      "section": "released",
-      "status": "Released",
-      "title": "v0.20 — Card Stacking",
-      "date": "10/17/26",
-      "message": "Cards now stack on top of one another when five or more cards are on the table, leaving the edges of previous cards visible for easier viewing and a cleaner table layout."
     }
   ]
 }
+
 
 
 
